@@ -1,7 +1,5 @@
 const description= "projet de ouf fait à plusieurs";
 
-const nom = "de la daube";
-
-const nom = "mais non super projet";
+const nom = "un truc qui marche bien";
 
 document.write("<B>Bonjour tout le monde !</B>");
