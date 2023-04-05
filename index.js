@@ -1,4 +1,4 @@
-const description= "projet de ouf";
+const description= "projet de ouf fait à plusieurs";
 
 const nom = "de la daube";
 
