@@ -1,3 +1,7 @@
 Placer les tests ici.
 
+<<<<<<< HEAD
 test
+=======
+TODO un premier test à écrire
+>>>>>>> 545583fb6106d842e55ec789cbb3ef9cb0fbd90f
